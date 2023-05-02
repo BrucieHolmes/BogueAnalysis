@@ -4,7 +4,7 @@ clc; close all; clear all; %#ok<*CLALL>
 
 %% *************************** INPUT DATA FILES ***************************
 molar_mass = xlsread('Bogue_input.xlsx', 'molar_mass');
-oxides = xlsread('Bogue_input.xlsx', 'binder');
+oxides = xlsread('Bogue_input.xlsx', 'oxides');
 
 %% ******* MODIFIED BOGUE CALCULATION OF CEMENT PHASES PROPORTIONS ********
 tic

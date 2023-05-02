@@ -1,0 +1,35 @@
+*****************************
+*		            * 
+* HOW TO USE BOGUE ANALYSIS *
+*		            *
+*****************************
+
+------------------------------
+INTRODUCTION
+------------------------------
+The Bogue Analysis software, written in MATLAB, is a free-to-use software to determine the clinker phase (C3S, C2S, C3A & C4AF) and gypsum proportions from an oxide compositions.
+
+Users input their oxide compositions using a ME Excel spreadsheet
+
+------------------------------
+ACCESSING THE SOFTWARE
+------------------------------
+1. Install the most up to date version of MATLAB
+
+2. Open GitHub using the link below
+https://github.com/BrucieHolmes/BogueAnalysis
+
+3. Download the GitHub Repository by opening <Code> (green button) and clicking 'Download to Zip'.
+Save the *.zip folder on your PC.
+
+4. Double-click on the xScript_ModifiedBogue.m script to open the prograame.
+
+5. Update the oxide compositions in the 'Bogue_input.xlsx' spreadsheet (highlighted in green). 
+
+6. Save all changes and return to the xScript_ModifiedBogue.m script
+
+------------------------------
+HOW TO UNDERTAKE AN ANALYSIS
+------------------------------
+1. Under 'EDITOR', click Run
+The oxide composition and clinker phase proportions will be plotted.
