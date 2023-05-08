@@ -33,3 +33,5 @@ HOW TO UNDERTAKE AN ANALYSIS
 ------------------------------
 1. Under 'EDITOR', click Run
 The oxide composition and clinker phase proportions will be plotted.
+
+mdnote
